@@ -8,7 +8,7 @@ Currently, I serve as the Lead Software Engineer at Symphony, a pioneering end-t
 
 Let's connect and explore the world of code together!
 
- <a aligh="left" href="https://www.thibaultpensec.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a>
+ <a aligh="left" href="https://thibaultpensec.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a>
  <a aligh="left" href="mailto:thibault.pensec@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>
  <a aligh="left" href="https://twitter.com/thibauuIt" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a>
  <a aligh="left" href="https://www.linkedin.com/in/thibault-pensec" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
